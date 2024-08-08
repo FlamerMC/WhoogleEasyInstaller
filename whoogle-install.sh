@@ -33,7 +33,7 @@ echo pip install whoogle-search
 sleep 1
 clear
 echo Getting run.sh from github
-echo NOT COMPLETE
+wget https://raw.githubusercontent.com/FlamerMC/WhoogleEasyInstaller/main/run.sh
 sleep 1
 clear
 echo To start whoogle just run home/$USER/Whoogle/run.sh
